@@ -3,5 +3,5 @@ This project uses a fine-tuned T5 transformer model to convert natural language 
 
 ![Transformers](https://img.shields.io/badge/HuggingFace-T5-yellow)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Status](https://img.shields.io/badge/Accuracy-90%25-green)
+![Status](https://img.shields.io/badge/Accuracy-87%25-green)
 ![License](https://img.shields.io/badge/License-MIT-green)
