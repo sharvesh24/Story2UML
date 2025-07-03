@@ -1,0 +1,6 @@
+transformers
+datasets
+torch
+python-docx
+scikit-learn
+tqdm
